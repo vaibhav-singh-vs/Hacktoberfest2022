@@ -11,4 +11,4 @@ ans = isPalindrome(s)
 if ans:
 	print("Yes")
 else:
-	print("No ")
+	print("N o ")
